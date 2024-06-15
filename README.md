@@ -2,6 +2,12 @@
 
 This is a Flask-based application for managing user accounts and recipes. Users can register, log in, and create, update, delete, and view recipes. The application uses SQLite for data storage and supports session management with Flask-Login.
 
+## Project Setup
+git clone https://github.com/adityapathak499/recipe_app.git
+cd recipe_app
+pip3 install -r requirements.txt
+python app.py (use python3 if you wants to run this project in linux distro)
+
 ## Endpoints
 
 ### Authentication Endpoints
